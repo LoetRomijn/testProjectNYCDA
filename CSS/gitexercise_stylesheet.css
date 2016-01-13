@@ -1,0 +1,26 @@
+/*This is the stylesheel for the git exercise html page */
+
+body{ 
+	padding:0;
+	margin:0;
+	height:100%;
+	background-color:blue;
+	background-size: 100%;
+	}
+
+h1 {
+	color:white;
+	font-family: "Palatino Linotype";
+	font-style:none;
+	font-size:70px;
+	margin: 20px;
+	text-align:center;
+	text-shadow: 2px 2px #202020;
+}
+p { 
+	color:white;
+	font-family:"Palatino Linotype";
+	font-size:20px;
+	text-align:center;
+	vertical-align: middle;
+}
