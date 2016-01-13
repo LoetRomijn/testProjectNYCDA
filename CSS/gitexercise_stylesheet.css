@@ -24,3 +24,29 @@ p {
 	text-align:center;
 	vertical-align: middle;
 }
+a {
+	color:white;
+	font-family: "Palatino Linotype";
+	font-size: 25px;
+}
+nav{
+	margin-top: 10px;
+	margin-left: 10px;
+	font-size: 30px;
+	font-style: bold;
+}
+/* Footer */ 
+div#footer {
+	clear:both;
+	position: absolute;
+	padding:2px;
+	background-color: transparent;
+	text-align: center;
+	width:100%;
+	height:15px;
+	bottom:0;
+}
+
+div#footer p{ 
+	font-size:15px;
+}
