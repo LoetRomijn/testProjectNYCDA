@@ -29,11 +29,19 @@ a {
 	font-family: "Palatino Linotype";
 	font-size: 25px;
 }
-nav{
+nav {
 	margin-top: 10px;
 	margin-left: 10px;
 	font-size: 30px;
 	font-style: bold;
+}
+
+/*The wrap around the content*/
+.content_wrap{
+	position: relative;
+	width: 100%;
+	min-height:100%;
+	margin:0 auto;
 }
 /* Footer */ 
 div#footer {
@@ -46,7 +54,6 @@ div#footer {
 	height:15px;
 	bottom:0;
 }
-
 div#footer p{ 
 	font-size:15px;
 }
